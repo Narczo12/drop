@@ -1,0 +1,23 @@
+{
+
+    "token": "OTE3MDYzOTg2MDIzODkwOTg0.YazQZA.34dorS5bO76Do3o5-tw41EJUSUs",
+    "prefix": "!",
+    "status": "http://dc.hypecash.eu",
+
+    "changelog_channel": "908807005542678569",
+    "suggestions_channel": "908807005341364242",
+    "welcome_channel": "916369190917668934",
+    "poll_channel": "908807005114875940",
+    
+    "drop_channel": "917065767420309526",
+    "admindrop_channel": "917069797089488946",
+
+    "guild": "908807005114875934",
+
+    "veryfication_role": "909726096956723240",
+
+    "emote_yes": "👍",
+    "emote_no": "👎"
+
+
+}

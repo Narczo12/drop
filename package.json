@@ -1,0 +1,23 @@
+{
+  "name": "narczobot",
+  "version": "0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "Narczo#5228",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^10.0.0",
+    "encoding": "^0.1.13",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "text-obfuscator": "^1.1.0"
+  }
+}
